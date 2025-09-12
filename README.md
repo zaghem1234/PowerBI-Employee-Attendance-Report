@@ -3,6 +3,7 @@
 A visually stunning and interactive **Employee Attendance Report** integrated into Power BI.
 This project shows how to use interactive calendar visuals, employee profile cards, and **SVG-based DAX measures** to create a comprehensive attendance dashboard.
 
+[Link of Report](https://app.powerbi.com/view?r=eyJrIjoiYTM5YWYyZjgtNzYyMS00YjBhLTlmNTctYjNhMDVkMjI4NmE4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
  
 ---
 
