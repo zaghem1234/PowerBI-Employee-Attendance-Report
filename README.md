@@ -43,6 +43,8 @@ This project shows how to use interactive calendar visuals, employee profile car
 
 ---
 
+![Report](Resources/atuomated%20sales%20pbi%20screenshot.png)
+
 ## 🛠️ Workflow for the Project  
 
 1. **Power Query Data Preparation**  
