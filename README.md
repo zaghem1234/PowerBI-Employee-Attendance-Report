@@ -43,7 +43,7 @@ This project shows how to use interactive calendar visuals, employee profile car
 
 ---
 
-![Report](Resources/Screenshot of dashboard.png)
+![Report](Resources/Screenshot-of-dashboard.png)
 
 ## 🛠️ Workflow for the Project  
 
